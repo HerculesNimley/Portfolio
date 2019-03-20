@@ -1,2 +1,2 @@
-# Hello-World
-Just trying things out. VsCode
+# My Portfolio
+Basic information about my skills
